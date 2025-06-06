@@ -1,0 +1,12 @@
+Z:\Desktop\tutDocs\tutdocs\TutdocsBackEnd\Tutdocs.Service\bin\Debug\net8.0\Tutdocs.Service.deps.json
+Z:\Desktop\tutDocs\tutdocs\TutdocsBackEnd\Tutdocs.Service\bin\Debug\net8.0\Tutdocs.Service.dll
+Z:\Desktop\tutDocs\tutdocs\TutdocsBackEnd\Tutdocs.Service\bin\Debug\net8.0\Tutdocs.Service.pdb
+Z:\Desktop\tutDocs\tutdocs\TutdocsBackEnd\Tutdocs.Service\obj\Debug\net8.0\Tutdocs.Service.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\tutDocs\tutdocs\TutdocsBackEnd\Tutdocs.Service\obj\Debug\net8.0\Tutdocs.Service.AssemblyInfoInputs.cache
+Z:\Desktop\tutDocs\tutdocs\TutdocsBackEnd\Tutdocs.Service\obj\Debug\net8.0\Tutdocs.Service.AssemblyInfo.cs
+Z:\Desktop\tutDocs\tutdocs\TutdocsBackEnd\Tutdocs.Service\obj\Debug\net8.0\Tutdocs.Service.csproj.CoreCompileInputs.cache
+Z:\Desktop\tutDocs\tutdocs\TutdocsBackEnd\Tutdocs.Service\obj\Debug\net8.0\Tutdocs.Service.sourcelink.json
+Z:\Desktop\tutDocs\tutdocs\TutdocsBackEnd\Tutdocs.Service\obj\Debug\net8.0\Tutdocs.Service.dll
+Z:\Desktop\tutDocs\tutdocs\TutdocsBackEnd\Tutdocs.Service\obj\Debug\net8.0\refint\Tutdocs.Service.dll
+Z:\Desktop\tutDocs\tutdocs\TutdocsBackEnd\Tutdocs.Service\obj\Debug\net8.0\Tutdocs.Service.pdb
+Z:\Desktop\tutDocs\tutdocs\TutdocsBackEnd\Tutdocs.Service\obj\Debug\net8.0\ref\Tutdocs.Service.dll

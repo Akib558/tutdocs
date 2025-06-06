@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60D11E30-8009-483F-8D8A-482C260A89CE}|TutdocsWebAPI\\TutdocsWebAPI.csproj|z:\\desktop\\tutdocs\\tutdocs\\tutdocsbackend\\tutdocswebapi\\tutdocswebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60D11E30-8009-483F-8D8A-482C260A89CE}|TutdocsWebAPI\\TutdocsWebAPI.csproj|solutionrelative:tutdocswebapi\\tutdocswebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D11E30-8009-483F-8D8A-482C260A89CE}|TutdocsWebAPI\\TutdocsWebAPI.csproj|z:\\desktop\\tutdocs\\tutdocs\\tutdocsbackend\\tutdocswebapi\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D11E30-8009-483F-8D8A-482C260A89CE}|TutdocsWebAPI\\TutdocsWebAPI.csproj|solutionrelative:tutdocswebapi\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BDF8B5-E8EF-4730-AFF6-E93CB0FBA9AD}|Tutdocs.Application\\Tutdocs.Application.csproj|z:\\desktop\\tutdocs\\tutdocs\\tutdocsbackend\\tutdocs.application\\customexceptions\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BDF8B5-E8EF-4730-AFF6-E93CB0FBA9AD}|Tutdocs.Application\\Tutdocs.Application.csproj|solutionrelative:tutdocs.application\\customexceptions\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BDF8B5-E8EF-4730-AFF6-E93CB0FBA9AD}|Tutdocs.Application\\Tutdocs.Application.csproj|z:\\desktop\\tutdocs\\tutdocs\\tutdocsbackend\\tutdocs.application\\customexceptions\\clientcustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BDF8B5-E8EF-4730-AFF6-E93CB0FBA9AD}|Tutdocs.Application\\Tutdocs.Application.csproj|solutionrelative:tutdocs.application\\customexceptions\\clientcustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BDF8B5-E8EF-4730-AFF6-E93CB0FBA9AD}|Tutdocs.Application\\Tutdocs.Application.csproj|z:\\desktop\\tutdocs\\tutdocs\\tutdocsbackend\\tutdocs.application\\customexceptions\\users\\userregistrationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BDF8B5-E8EF-4730-AFF6-E93CB0FBA9AD}|Tutdocs.Application\\Tutdocs.Application.csproj|solutionrelative:tutdocs.application\\customexceptions\\users\\userregistrationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEF5FD2-AFBC-447B-8200-345CC2D31D62}|Tutdocs.Service\\Tutdocs.Service.csproj|z:\\desktop\\tutdocs\\tutdocs\\tutdocsbackend\\tutdocs.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEF5FD2-AFBC-447B-8200-345CC2D31D62}|Tutdocs.Service\\Tutdocs.Service.csproj|solutionrelative:tutdocs.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E50EF9-133C-4767-8CFF-EB1A2A9942A7}|Tutdocs.Repository\\Tutdocs.Repository.csproj|z:\\desktop\\tutdocs\\tutdocs\\tutdocsbackend\\tutdocs.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E50EF9-133C-4767-8CFF-EB1A2A9942A7}|Tutdocs.Repository\\Tutdocs.Repository.csproj|solutionrelative:tutdocs.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC4EB89-F86C-4B54-87FF-CD6AC45FFB48}|Tutdocs.Data\\Tutdocs.Data.csproj|z:\\desktop\\tutdocs\\tutdocs\\tutdocsbackend\\tutdocs.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC4EB89-F86C-4B54-87FF-CD6AC45FFB48}|Tutdocs.Data\\Tutdocs.Data.csproj|solutionrelative:tutdocs.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD4625C-A85A-420D-B1FA-CF689DBD8519}|Tutdocs.Domain\\Tutdocs.Domain.csproj|z:\\desktop\\tutdocs\\tutdocs\\tutdocsbackend\\tutdocs.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD4625C-A85A-420D-B1FA-CF689DBD8519}|Tutdocs.Domain\\Tutdocs.Domain.csproj|solutionrelative:tutdocs.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BDF8B5-E8EF-4730-AFF6-E93CB0FBA9AD}|Tutdocs.Application\\Tutdocs.Application.csproj|z:\\desktop\\tutdocs\\tutdocs\\tutdocsbackend\\tutdocs.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BDF8B5-E8EF-4730-AFF6-E93CB0FBA9AD}|Tutdocs.Application\\Tutdocs.Application.csproj|solutionrelative:tutdocs.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D11E30-8009-483F-8D8A-482C260A89CE}|TutdocsWebAPI\\TutdocsWebAPI.csproj|z:\\desktop\\tutdocs\\tutdocs\\tutdocsbackend\\tutdocswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60D11E30-8009-483F-8D8A-482C260A89CE}|TutdocsWebAPI\\TutdocsWebAPI.csproj|solutionrelative:tutdocswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\Tutdocs.Application\\CustomExceptions\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "Tutdocs.Application\\CustomExceptions\\ErrorDetails.cs",
+              "ToolTip": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\Tutdocs.Application\\CustomExceptions\\ErrorDetails.cs",
+              "RelativeToolTip": "Tutdocs.Application\\CustomExceptions\\ErrorDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:08:21.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientCustomException.cs",
+              "DocumentMoniker": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\Tutdocs.Application\\CustomExceptions\\ClientCustomException.cs",
+              "RelativeDocumentMoniker": "Tutdocs.Application\\CustomExceptions\\ClientCustomException.cs",
+              "ToolTip": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\Tutdocs.Application\\CustomExceptions\\ClientCustomException.cs",
+              "RelativeToolTip": "Tutdocs.Application\\CustomExceptions\\ClientCustomException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:08:11.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\TutdocsWebAPI\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "TutdocsWebAPI\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\TutdocsWebAPI\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "TutdocsWebAPI\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:05:39.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TutdocsWebAPI",
+              "DocumentMoniker": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\TutdocsWebAPI\\TutdocsWebAPI.csproj",
+              "RelativeDocumentMoniker": "TutdocsWebAPI\\TutdocsWebAPI.csproj",
+              "ToolTip": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\TutdocsWebAPI\\TutdocsWebAPI.csproj",
+              "RelativeToolTip": "TutdocsWebAPI\\TutdocsWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T23:04:11.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRegistrationException.cs",
+              "DocumentMoniker": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\Tutdocs.Application\\CustomExceptions\\Users\\UserRegistrationException.cs",
+              "RelativeDocumentMoniker": "Tutdocs.Application\\CustomExceptions\\Users\\UserRegistrationException.cs",
+              "ToolTip": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\Tutdocs.Application\\CustomExceptions\\Users\\UserRegistrationException.cs",
+              "RelativeToolTip": "Tutdocs.Application\\CustomExceptions\\Users\\UserRegistrationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:07:56.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\Tutdocs.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "Tutdocs.Service\\Class1.cs",
+              "ToolTip": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\Tutdocs.Service\\Class1.cs",
+              "RelativeToolTip": "Tutdocs.Service\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:03:52.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\Tutdocs.Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "Tutdocs.Repository\\Class1.cs",
+              "ToolTip": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\Tutdocs.Repository\\Class1.cs",
+              "RelativeToolTip": "Tutdocs.Repository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:03:31.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\Tutdocs.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "Tutdocs.Data\\Class1.cs",
+              "ToolTip": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\Tutdocs.Data\\Class1.cs",
+              "RelativeToolTip": "Tutdocs.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:03:03.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\Tutdocs.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Tutdocs.Domain\\Class1.cs",
+              "ToolTip": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\Tutdocs.Domain\\Class1.cs",
+              "RelativeToolTip": "Tutdocs.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:02:35.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\Tutdocs.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Tutdocs.Application\\Class1.cs",
+              "ToolTip": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\Tutdocs.Application\\Class1.cs",
+              "RelativeToolTip": "Tutdocs.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:01:51.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\TutdocsWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TutdocsWebAPI\\appsettings.json",
+              "ToolTip": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\TutdocsWebAPI\\appsettings.json",
+              "RelativeToolTip": "TutdocsWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T22:57:13.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
