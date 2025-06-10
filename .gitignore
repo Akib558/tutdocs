@@ -1,0 +1,115 @@
+# ====================
+# .NET (ASP.NET Core)
+# ====================
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET secrets
+**/appsettings.*.json
+!**/appsettings.json
+
+# Entity Framework Migrations
+**/Migrations/
+
+# Rider-specific build artifacts
+.idea/
+.idea/**
+
+# dotnet CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Coverage reports
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# Logs
+*.log
+
+# ====================
+# Angular
+# ====================
+# Angular build artifacts
+dist/
+out-tsc/
+.angular/
+.angular-cache/
+
+# Angular environment files
+**/src/environments/environment.*.ts
+!**/src/environments/environment.ts
+
+# node
+node_modules/
+
+# npm logs and locks
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+.pnpm-debug.log
+.pnpm-store/
+
+# Compiled files
+**/*.js
+**/*.js.map
+**/*.tsbuildinfo
+
+# ====================
+# Rider
+# ====================
+.idea/
+.idea/**
+
+# Rider caches and local settings
+*.sln.iml
+
+# ====================
+# VSCode
+# ====================
+.vscode/
+.vscode/**
+
+# History files, backups
+*.code-workspace
+.history/
+
+# ====================
+# OS-specific
+# ====================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.nfs*
+
+# ====================
+# Git temporary files
+# ====================
+*.orig
+*.swp
+*.swo
+
+# ====================
+# Optional: Uncomment to ignore IDE-level backup files
+# ====================
+# *.bak
+# *.tmp
+
