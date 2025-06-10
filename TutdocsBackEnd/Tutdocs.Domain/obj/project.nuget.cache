@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0PZgzpQHHYQ=",
+  "dgSpecHash": "9x7tlgrtSb8=",
   "success": true,
-  "projectFilePath": "Z:\\Desktop\\tutDocs\\tutdocs\\TutdocsBackEnd\\Tutdocs.Domain\\Tutdocs.Domain.csproj",
+  "projectFilePath": "/home/akib/Coding/02_Dotnet/tutdocs/TutdocsBackEnd/Tutdocs.Domain/Tutdocs.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,15 @@
 # ====================
 # .NET (ASP.NET Core)
 # ====================
-bin/
-obj/
+# .NET build output folders (recursive)
+**/bin/
+**/obj/
+
+# Backup and cache files
+*.user
+*.suo
+*.cache
+*.log
 *.user
 *.suo
 *.userosscache
