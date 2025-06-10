@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Tutdocs.Data\Tutdocs.Data.csproj" />
+    <ProjectReference Include="..\Tutdocs.Domain\Tutdocs.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

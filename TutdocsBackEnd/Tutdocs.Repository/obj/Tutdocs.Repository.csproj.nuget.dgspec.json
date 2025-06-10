@@ -4,6 +4,132 @@
     "/home/akib/Coding/02_Dotnet/tutdocs/TutdocsBackEnd/Tutdocs.Repository/Tutdocs.Repository.csproj": {}
   },
   "projects": {
+    "/home/akib/Coding/02_Dotnet/tutdocs/TutdocsBackEnd/Tutdocs.Data/Tutdocs.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/akib/Coding/02_Dotnet/tutdocs/TutdocsBackEnd/Tutdocs.Data/Tutdocs.Data.csproj",
+        "projectName": "Tutdocs.Data",
+        "projectPath": "/home/akib/Coding/02_Dotnet/tutdocs/TutdocsBackEnd/Tutdocs.Data/Tutdocs.Data.csproj",
+        "packagesPath": "/home/akib/.nuget/packages/",
+        "outputPath": "/home/akib/Coding/02_Dotnet/tutdocs/TutdocsBackEnd/Tutdocs.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/akib/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/akib/Coding/02_Dotnet/tutdocs/TutdocsBackEnd/Tutdocs.Domain/Tutdocs.Domain.csproj": {
+                "projectPath": "/home/akib/Coding/02_Dotnet/tutdocs/TutdocsBackEnd/Tutdocs.Domain/Tutdocs.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.116/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/akib/Coding/02_Dotnet/tutdocs/TutdocsBackEnd/Tutdocs.Domain/Tutdocs.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/akib/Coding/02_Dotnet/tutdocs/TutdocsBackEnd/Tutdocs.Domain/Tutdocs.Domain.csproj",
+        "projectName": "Tutdocs.Domain",
+        "projectPath": "/home/akib/Coding/02_Dotnet/tutdocs/TutdocsBackEnd/Tutdocs.Domain/Tutdocs.Domain.csproj",
+        "packagesPath": "/home/akib/.nuget/packages/",
+        "outputPath": "/home/akib/Coding/02_Dotnet/tutdocs/TutdocsBackEnd/Tutdocs.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/akib/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.116/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/akib/Coding/02_Dotnet/tutdocs/TutdocsBackEnd/Tutdocs.Repository/Tutdocs.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -25,7 +151,14 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/akib/Coding/02_Dotnet/tutdocs/TutdocsBackEnd/Tutdocs.Data/Tutdocs.Data.csproj": {
+                "projectPath": "/home/akib/Coding/02_Dotnet/tutdocs/TutdocsBackEnd/Tutdocs.Data/Tutdocs.Data.csproj"
+              },
+              "/home/akib/Coding/02_Dotnet/tutdocs/TutdocsBackEnd/Tutdocs.Domain/Tutdocs.Domain.csproj": {
+                "projectPath": "/home/akib/Coding/02_Dotnet/tutdocs/TutdocsBackEnd/Tutdocs.Domain/Tutdocs.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tutdocs.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54a785c995b442d5cca3c50778686e4de558a85a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad10900ad0f7c24260c3e4730e0743301ea97699")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tutdocs.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tutdocs.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
